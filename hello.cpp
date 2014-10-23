@@ -4,7 +4,7 @@
 //       Filename:  hello.cpp
 // 
 //    Description:  hello world 2.0
-// 
+// asdf
 //        Version:  1.0
 //        Created:  12/24/2012 02:11:59 PM
 //       Revision:  none
